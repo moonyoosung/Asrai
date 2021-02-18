@@ -1,0 +1,9 @@
+
+Asrai_Project2/.collabignore
+Asrai_Project2/Logs
+Asrai_Project2/obj
+Asrai_Project2/Temp
+Asrai_Project2/*.sln
+Asrai_Project2/Library
+*.csproj
+*/.vs
